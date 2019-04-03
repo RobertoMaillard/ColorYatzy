@@ -1,7 +1,7 @@
 # ColorYatzy
 Basic game of Color Yatzy.
 # Personal project
-Contains the use of
+Contains the use of \n
 • Scanner
 • Random
 • Collections.sort

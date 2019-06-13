@@ -1,5 +1,6 @@
 # ColorYatzy
 Basic game of Color Yatzy.
+Roll 5 color dices and collect points.
 # Personal project
 Contains the use of
 * Scanner
